@@ -36,10 +36,10 @@ Tout est encore au niveau **notions** — j'apprends en construisant de petits p
 
 | | |
 |---|---|
-| 🌐 **[GL HUB](https://mhdev-x.github.io/GL-HUB)** | Plateforme centralisant les cours et TD de Génie Logiciel pour ma promo (ISI Keur Massar) |
-| 📚 **[Bibliothèque Islamique](https://github.com/mhdev-x/Bibliotheque_Islamique)** | Système modulaire de gestion de bibliothèque en C |
-| 💬 **[JOKKO](https://github.com/insrobane4-tech/JOKKO)** | Interface de chat de groupe, projet d'équipe |
-| ⚽ **[Simulateur Coupe du Monde](https://mhdev-x.github.io/random-score-generator)** | Simulateur de scores avec thème clair/sombre |
+| <img src="https://api.iconify.design/fa-solid:globe.svg?color=%23E8A33D&height=18" /> **[GL HUB](https://mhdev-x.github.io/GL-HUB)** | Plateforme centralisant les cours et TD de Génie Logiciel pour ma promo (ISI Keur Massar) |
+| <img src="https://api.iconify.design/fa-solid:book.svg?color=%23E8A33D&height=18" /> **[Bibliothèque Islamique](https://github.com/mhdev-x/Bibliotheque_Islamique)** | Système modulaire de gestion de bibliothèque en C |
+| <img src="https://api.iconify.design/fa-solid:comments.svg?color=%23E8A33D&height=18" /> **[JOKKO](https://github.com/insrobane4-tech/JOKKO)** | Interface de chat de groupe, projet d'équipe |
+| <img src="https://api.iconify.design/fa-solid:futbol.svg?color=%23E8A33D&height=18" /> **[Simulateur Coupe du Monde](https://mhdev-x.github.io/random-score-generator)** | Simulateur de scores avec thème clair/sombre |
 
 <br>
 
