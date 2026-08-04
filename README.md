@@ -43,15 +43,6 @@ Tout est encore au niveau **notions** — j'apprends en construisant de petits p
 
 <br>
 
-## Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhdev-x&show_icons=true&theme=dark&hide_border=true&bg_color=0F1626&title_color=E8A33D&icon_color=E8A33D&text_color=8B93A7" alt="Stats GitHub" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdev-x&theme=dark&hide_border=true&background=0F1626&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" alt="Streak GitHub" height="165"/>
-</div>
-
-<br>
-
 ## Contact
 
 <div align="center">
