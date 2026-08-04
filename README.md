@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mhdev-x/mhdev-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&width=520&lines=Le+compilateur+a+toujours+raison...;m%C3%AAme+quand+j'ai+tort." alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Programme MohamedBathily
+
+```
+Var
+    identite, alias, statut : Chaine
+
+Debut
+    identite  <---- "Mohamed Bathily"
+    alias     <---- "MHDevX"
+    statut    <---- "Étudiant en Génie Logiciel, ISI Keur Massar (Dakar, Sénégal)"
+```
+
+L'informatique, c'est une passion qui remonte à l'enfance, j'ai grandi en bidouillant l'ordinateur familial, bien avant de savoir ce qu'était vraiment la programmation. Aujourd'hui étudiant en Génie Logiciel, j'apprends les bases avec la même envie de comprendre par moi-même : fouiller, tester, recommencer jusqu'à ce que ça marche.
+
+<br>
+
+## Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap,py,mysql,git" />
+</div>
+
+Tout est encore au niveau **notions** — j'apprends en construisant de petits projets pour vraiment comprendre ce que je vois en cours.
+
+<br>
+
+## Projets
+
+| | |
+|---|---|
+| 🌐 **[GL HUB](https://mhdev-x.github.io/GL-HUB)** | Plateforme centralisant les cours et TD de Génie Logiciel pour ma promo (ISI Keur Massar) |
+| 📚 **[Bibliothèque Islamique](https://github.com/mhdev-x/Bibliotheque_Islamique)** | Système modulaire de gestion de bibliothèque en C |
+| 💬 **[JOKKO](https://github.com/insrobane4-tech/JOKKO)** | Interface de chat de groupe, projet d'équipe |
+| ⚽ **[Simulateur Coupe du Monde](https://mhdev-x.github.io/random-score-generator)** | Simulateur de scores avec thème clair/sombre |
+
+<br>
+
+## Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mhdev-x&show_icons=true&theme=dark&hide_border=true&bg_color=0F1626&title_color=E8A33D&icon_color=E8A33D&text_color=8B93A7" alt="Stats GitHub" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdev-x&theme=dark&hide_border=true&background=0F1626&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" alt="Streak GitHub" height="165"/>
+</div>
+
+<br>
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhdev-x/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mhdev-x/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8A33D?style=for-the-badge&logo=firefox&logoColor=white)](https://mhdev-x.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedbathily08632@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhdev_x/)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/@mhdev_x/)
+
+</div>
+
+<div align="center">
+
+```
+Fin.
+```
+
+</div>
