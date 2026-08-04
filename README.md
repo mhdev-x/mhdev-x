@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&width=600&lines=Chaque+projet+est+une+fa%C3%A7on+d%27apprendre+par+la+pratique." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&width=800&lines=Chaque+projet+est+une+fa%C3%A7on+d%27apprendre+par+la+pratique." alt="Typing SVG" />
 
 </div>
 
