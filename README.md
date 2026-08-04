@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&width=520&lines=Le+compilateur+a+toujours+raison...;m%C3%AAme+quand+j'ai+tort." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&width=600&lines=Chaque+projet+est+une+fa%C3%A7on+d%27apprendre+par+la+pratique." alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@ Debut
     statut    <---- "Étudiant en Génie Logiciel, ISI Keur Massar (Dakar, Sénégal)"
 ```
 
-L'informatique, c'est une passion qui remonte à l'enfance, j'ai grandi en bidouillant l'ordinateur familial, bien avant de savoir ce qu'était vraiment la programmation. Aujourd'hui étudiant en Génie Logiciel, j'apprends les bases avec la même envie de comprendre par moi-même : fouiller, tester, recommencer jusqu'à ce que ça marche.
+L'informatique, c'est une passion qui remonte à l'enfance — j'ai grandi en bidouillant l'ordinateur familial, bien avant de savoir ce qu'était vraiment la programmation. Aujourd'hui étudiant en Génie Logiciel, j'apprends les bases avec la même envie de comprendre par moi-même : fouiller, tester, recommencer jusqu'à ce que ça marche.
 
 <br>
 
