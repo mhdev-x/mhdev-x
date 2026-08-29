@@ -49,7 +49,7 @@ Tout est encore au niveau **notions** — j'apprends en construisant de petits p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhdev-x/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mhdev-x/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8A33D?style=for-the-badge&logo=firefox&logoColor=white)](https://mhdev-x.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8A33D?style=for-the-badge&logo=firefox&logoColor=white)](https://mhdev-x.github.io/mhdevx_Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedbathily08632@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhdev_x/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/@mhdev_x/)
