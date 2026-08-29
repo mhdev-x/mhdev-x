@@ -18,7 +18,7 @@ Debut
     statut    <---- "Étudiant en Génie Logiciel, ISI Keur Massar (Dakar, Sénégal)"
 ```
 
-L'informatique, c'est une passion qui remonte à l'enfance — j'ai grandi en bidouillant l'ordinateur familial, bien avant de savoir ce qu'était vraiment la programmation. Aujourd'hui étudiant en Génie Logiciel, j'apprends les bases avec la même envie de comprendre par moi-même : fouiller, tester, recommencer jusqu'à ce que ça marche.
+L'informatique, c'est une passion qui remonte à l'enfance, j'ai grandi en bidouillant l'ordinateur familial, bien avant de savoir ce qu'était vraiment la programmation. Aujourd'hui étudiant en Génie Logiciel, j'apprends les bases avec la même envie de comprendre par moi-même: fouiller, tester, recommencer jusqu'à ce que ça marche.
 
 <br>
 
